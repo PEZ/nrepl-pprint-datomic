@@ -1,10 +1,10 @@
-# datomic
+# pretty printing datomic results
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure project for figuring out pretty printing of Datomic results.
 
 ## Usage
 
-FIXME
+Evaluate the `comment` form in `src/nrepl_pprint_datomic/core.clj` with various `pprint` methods, and behold.
 
 ## License
 
